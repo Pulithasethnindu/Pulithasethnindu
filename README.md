@@ -14,7 +14,7 @@
 
 
 <!-- programming langs i work-->
-<p align="center">
+<p align="left">
 <img src="https://i.ibb.co/g6xRn5j/ebb6af261fc4.png" width="50px" height="50px"/>
 <img src="https://i.ibb.co/fxdjzm3/651b38bc8ab6.png" width="50px" height="50px"/>
 <img src="https://i.ibb.co/SfjbmYJ/d007afb6b40e.png" width="50px" height="50px"/>
