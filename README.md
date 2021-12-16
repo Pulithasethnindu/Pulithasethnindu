@@ -51,5 +51,5 @@
 </p>
 
 <p> 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
+ <img src="https://raw.githubusercontent.com/Pulithasethnindu/Pulithasethnindu/output/github-contribution-grid-snake.gif" />
 </p>
