@@ -60,8 +60,3 @@
 
 
 
-
-
-
-<div align="left">
-<a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/g6xRn5j/ebb6af261fc4.png?type=transparent&text=☎️+𝙲𝙾𝙽𝚃𝙰𝙲𝚃+𝙼𝙴...&fontSize=25&fontAlign=12&height=50"></a></div>
