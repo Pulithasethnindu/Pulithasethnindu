@@ -37,7 +37,7 @@
 
 
 
-
+<h2><b>About My Profile</h2></b>
 <p align="center">
   <a href="https://github.com/Pulithasethnindu"><img width="550" src="https://github-readme-stats.vercel.app/api?username=Pulithasethnindu&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false&custom_title=About+✬Pulitha Sethnindu✬+'s+GitHub+Profile"></a>
 </p>
