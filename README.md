@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"</a><h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1>
+  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"><h1><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif">
 </p>
 
 
