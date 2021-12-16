@@ -7,7 +7,7 @@
 
 <br><br>
 
-<p align="center"><a href="https://github.com/Pulithasethnindu"><img src="https://i.ibb.co/54ZG2ts/ee26578f36f6.jpg" width="400"></a></p>
+<p align="center"><a href="https://github.com/Pulithasethnindu"><img src="https://github.com/Pulithasethnindu/Pulithasethnindu/blob/main/Media/gif3.gif" width="400"></a></p>
 
 
 
