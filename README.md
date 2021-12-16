@@ -9,7 +9,7 @@
 
 <p align="center"><a href="https://github.com/Pulithasethnindu"><img src="https://github.com/Pulithasethnindu/Pulithasethnindu/blob/main/Media/gif3.gif" width="500"></a></p>
 
-<img src="https://profile-counter.glitch.me/Pulithasethnindu/count.svg" /><br>Profile Viewers</div>
+<p align="center"><img src="https://profile-counter.glitch.me/Pulithasethnindu/count.svg" /><br>Profile Viewers</div></p>
 
 
 
