@@ -1,6 +1,6 @@
 <p align='center'>
-  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /><h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" />
-</p>
+  <h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1>
+ </p>
 
 
 <br><br>
