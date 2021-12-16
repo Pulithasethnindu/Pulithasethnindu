@@ -49,7 +49,3 @@
 <p align="center">
   <a href="https://github.com/ravindu01manoj"><img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu01manoj&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false"></a>
 </p>
-
-<p> 
- <img src="https://raw.githubusercontent.com/Pulithasethnindu/Pulithasethnindu/output/github-contribution-grid-snake.gif" />
-</p>
