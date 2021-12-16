@@ -15,13 +15,11 @@
 
 <!-- programming langs i work-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://i.ibb.co/JFjJ26f/86f7ff5b8daa.png" width="25px" height="25px"/>
+<img src="https://i.ibb.co/ZJym945/fdb6a758abbb.png" width="25px" height="25px"/>
+<img src="https://i.ibb.co/cNqcLhc/0027fb071f00.png" width="25px" height="25px"/>
+<img src="https://i.ibb.co/LNyq83D/b8feaafbde0f.png" width="25px" height="25px"/>
+<img src="https://i.ibb.co/0K9Hts5/75daa3ef7832.png" width="25px" height="25px"/>
  
 
 
