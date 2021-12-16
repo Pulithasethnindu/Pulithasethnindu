@@ -45,6 +45,4 @@
 <p align="center">
   <a href="https://github.com/Pulithasethnindu"><img width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu01manoj&layout=compact&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&langs_count=20&disable_animations=false"></a>
 </p>
-<p align="center">
-  <a href="https://github.com/Pulithasethnindu"><img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu01manoj&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false"></a>
-</p>
+
