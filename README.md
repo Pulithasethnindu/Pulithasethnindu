@@ -1,9 +1,7 @@
 
-<h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1> 
+<p><a href="https://github.com/Pulithasethnindu alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a></p><h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1> <p><a href="https://github.com/Pulithasethnindu alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a></p>
 
-<p align='center'>
-  <a href="https://github.com/Pulithasethnindu alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a>
-</p>
+<p><a href="https://github.com/Pulithasethnindu alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a></p>
 
 
 <br><br>
