@@ -1,6 +1,6 @@
 <p align='center'>
-  <h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1>
- </p>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"</a><h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1>
+</p>
 
 
 <br><br>
