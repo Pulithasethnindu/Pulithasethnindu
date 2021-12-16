@@ -15,11 +15,11 @@
 
 <!-- programming langs i work-->
 <p align="center">
-<img src="https://i.ibb.co/JFjJ26f/86f7ff5b8daa.png" width="50px" height="50px"/>
-<img src="https://i.ibb.co/ZJym945/fdb6a758abbb.png" width="50px" height="50px"/>
-<img src="https://i.ibb.co/cNqcLhc/0027fb071f00.png" width="100px" height="50px"/>
-<img src="https://i.ibb.co/LNyq83D/b8feaafbde0f.png" width="50px" height="50px"/>
-<img src="https://i.ibb.co/0K9Hts5/75daa3ef7832.png" width="50px" height="50px"/>
+<img src="https://i.ibb.co/g6xRn5j/ebb6af261fc4.png" width="50px" height="50px"/>
+<img src="https://i.ibb.co/fxdjzm3/651b38bc8ab6.png" width="50px" height="50px"/>
+<img src="https://i.ibb.co/SfjbmYJ/d007afb6b40e.png" width="100px" height="50px"/>
+<img src="https://i.ibb.co/4snFd5N/6cfd03aa4894.png" width="50px" height="50px"/>
+<img src="https://i.ibb.co/4W2GHjM/4a7d2d39ab90.png" width="50px" height="50px"/>
  
 
 
