@@ -1,9 +1,11 @@
 
-<h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1> 
-
-<p align='center'>
+<p>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a>
-</p><br><br>
+</p><h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1> <p>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a>
+</p>
+
+<br><br>
 
 <p align="center"><a href="https://github.com/Pulithasethnindu"><img src="https://i.ibb.co/54ZG2ts/ee26578f36f6.jpg" width="400"></a></p>
 
