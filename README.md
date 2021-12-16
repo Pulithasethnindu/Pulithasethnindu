@@ -30,7 +30,7 @@
  ___
  
 
-<p align="center"><a href="https://t.me/danuma01"><img src="https://telegra.ph/file/f55fee6c9a87b5899e38f.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/danuma01"><img src="https://i.ibb.co/54ZG2ts/ee26578f36f6.jpg" width="400"></a></p>
 
 
 ---
