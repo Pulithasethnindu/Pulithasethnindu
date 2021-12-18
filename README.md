@@ -456,7 +456,7 @@ module[_0x4b01dc(-0x209, -0x1ef, -0x1ff, -0x224)] = Pulithasethnindu;
 
 <p align="center"><a href="https://github.com/Pulithasethnindu"><img src="https://github.com/Pulithasethnindu/Pulithasethnindu/blob/main/Media/gif3.gif" width="500"></a></p>
 
-<p align="center"><img src="https://profile-counter.dark.me/Pulithasethnindu/count.svg" /><br>Profile Viewers</div></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Pulithasethnindu/count.svg" /><br>Profile Viewers</div></p>
 
 <!--
 function _0x27fc() {
